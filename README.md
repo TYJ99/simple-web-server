@@ -71,12 +71,3 @@ The source code for tools needed to interact with TritonHTTP can be found in `cm
 2) `make gohttpd` - Starts up Go's inbuilt web-server.
 
 3) `make tritonhttpd`  - Starts up your implementation of TritonHTTP
-
-## Submission
-
-Either submit through GitHub, or:
-```
-make submission
-```
-
-And upload the generated `submission.zip` file to Gradescope.
