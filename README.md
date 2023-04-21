@@ -1,4 +1,4 @@
-
+see spec [here](./TritonHTTP_Spec.pdf)
 # TritonHTTP
 
 ## Spec Summary
